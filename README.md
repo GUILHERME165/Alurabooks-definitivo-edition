@@ -1,2 +1,1 @@
-# Alurabooks-definitivo-edition
-ainda contem erros, mas essa é a minha versão pronta
+atençao: a lupa da barra de pesquisa nao estar aparesento, no github deu algum erro, pois o meu está normal.
